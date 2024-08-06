@@ -1,5 +1,5 @@
-Gatling plugin for Maven - Java demo project
-============================================
+Gatling Framework for Ecommerce Websites
+=========================================
 
 Gatling Framework Structure
 ---------------------------
